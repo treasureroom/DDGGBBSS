@@ -787,10 +787,14 @@
 127.0.0.1 images.yahoo.com
 127.0.0.1 images.search.yahoo.com
 127.0.0.1 video.search.yahoo.com
+127.0.0.1 news.search.yahoo.com
+127.0.0.1 shopping.search.yahoo.com
 127.0.0.1 www.search.yahoo.com
 127.0.0.1 www.images.yahoo.com
 127.0.0.1 www.images.search.yahoo.com
 127.0.0.1 www.video.search.yahoo.com
+127.0.0.1 www.news.search.yahoo.com
+127.0.0.1 www.shopping.search.yahoo.com
 
 # Yandex Safe Search
 213.180.193.56 yandex.ru
