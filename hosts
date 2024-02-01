@@ -779,11 +779,15 @@
 204.79.197.220 www.bing.com # strict.bing.com
 
 # Brave Safe Search
+safesearch.brave.com brave.com
+13.227.74.99 brave.com
+18.245.60.17 brave.com
 18.154.101.56 brave.com
 52.84.18.110 brave.com
 52.84.18.123 brave.com
 52.84.18.83 brave.com
 52.84.18.6 brave.com
+18.245.60.17 search.brave.com
 18.154.101.56 search.brave.com
 52.84.18.110 search.brave.com
 52.84.18.123 search.brave.com
