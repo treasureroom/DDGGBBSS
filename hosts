@@ -783,11 +783,11 @@
 18.154.101.56 www.brave.com
 
 # Yahoo Safe Search (Just blocked it)
-127.0.0.1 yahoo.com
+127.0.0.1 search.yahoo.com
 127.0.0.1 images.yahoo.com
 127.0.0.1 images.search.yahoo.com
 127.0.0.1 video.search.yahoo.com
-127.0.0.1 www.yahoo.com
+127.0.0.1 www.search.yahoo.com
 127.0.0.1 www.images.yahoo.com
 127.0.0.1 www.images.search.yahoo.com
 127.0.0.1 www.video.search.yahoo.com
