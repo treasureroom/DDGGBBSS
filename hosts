@@ -779,11 +779,11 @@
 204.79.197.220 www.bing.com # strict.bing.com
 
 # Brave Safe Search
-13.227.74.99 search.brave.com
-99.84.191.18 search.brave.com
-18.155.129.44 search.brave.com
-108.157.214.15 search.brave.com
-3.163.224.76 search.brave.com
+#13.227.74.99 search.brave.com
+#99.84.191.18 search.brave.com
+#18.155.129.44 search.brave.com
+#108.157.214.15 search.brave.com
+#3.163.224.76 search.brave.com
 127.0.0.1 search.brave.com
 #18.245.60.17 search.brave.com
 #18.154.101.56 search.brave.com
@@ -791,11 +791,12 @@
 #52.84.18.123 search.brave.com
 #52.84.18.83 search.brave.com
 #52.84.18.6 search.brave.com
-13.227.74.99 www.search.brave.com
-99.84.191.18 www.search.brave.com
-18.155.129.44 www.search.brave.com
-108.157.214.15 www.search.brave.com
-3.163.224.76 www.search.brave.com
+#13.227.74.99 www.search.brave.com
+#99.84.191.18 www.search.brave.com
+#18.155.129.44 www.search.brave.com
+#108.157.214.15 www.search.brave.com
+#3.163.224.76 www.search.brave.com
+#127.0.0.1 www.search.brave.com
 #18.154.101.56 www.search.brave.com
 #52.84.18.110 www.search.brave.com
 #52.84.18.123 www.search.brave.com
