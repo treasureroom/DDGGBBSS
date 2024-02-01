@@ -1,17 +1,19 @@
-# Google Safe Search Host List
-# Generated on Thu 03 Feb 2022 08:38:10 AM CST
-# From: https://www.google.com/supported_domains
+# DDGGBBYYSS
+# DuckDuckGo, Google, Bing, Brave, Yahoo, and Yandex Safe Search
+# A hosts file consolidating a bunch of the major search
+# engines' safe search extensions.
 
 #2001:4860:4802:32::78 forcesafesearch.google.com
 #216.239.38.120 forcesafesearch.google.com
 
-# safe search lockout
-52.149.247.1 www.duckduckgo.com # force duckduckgo
-52.149.247.1 duckduckgo.com # force duckduckgo
-204.79.197.220 bing.com # strict.bing.com
-204.79.197.220 www.bing.com # strict.bing.com
+# DuckDuckGo Safe Search
+52.149.247.1 www.duckduckgo.com # www.safe.duckduckgo.com
+52.149.247.1 duckduckgo.com # safe.duckduckgo.com or 40.114.177.246
 
-#Script Output
+# Google Safe Search
+# Generated on Thu 03 Feb 2022 08:38:10 AM CST
+# From: https://www.google.com/supported_domains
+
 2001:4860:4802:32::78 google.com
 2001:4860:4802:32::78 google.ad
 2001:4860:4802:32::78 google.ae
@@ -772,3 +774,25 @@
 216.239.38.120 www.google.co.zm
 216.239.38.120 www.google.co.zw
 216.239.38.120 www.google.cat
+
+# Bing Safe Search
+204.79.197.220 bing.com # strict.bing.com
+204.79.197.220 www.bing.com # strict.bing.com
+
+# Brave Safe Search
+18.154.101.56 brave.com
+18.154.101.56 www.brave.com
+
+# Yahoo Safe Search (Just blocked it)
+127.0.0.1 yahoo.com
+127.0.0.1 images.yahoo.com
+127.0.0.1 images.search.yahoo.com
+127.0.0.1 video.search.yahoo.com
+127.0.0.1 www.yahoo.com
+127.0.0.1 www.images.yahoo.com
+127.0.0.1 www.images.search.yahoo.com
+127.0.0.1 www.video.search.yahoo.com
+
+# Yandex Safe Search
+213.180.193.56 yandex.ru
+213.180.193.56 www.yandex.ru
