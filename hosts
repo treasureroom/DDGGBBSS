@@ -13,10 +13,6 @@
 # 216.239.38.119 = restrictmoderate.youtube.com #
 #################################################
 
-
-#2001:4860:4802:32::78 forcesafesearch.google.com
-#216.239.38.120 forcesafesearch.google.com
-
 # DuckDuckGo Safe Search
 #52.149.247.1 duckduckgo.com # safe.duckduckgo.com or 40.114.177.246
 #46.137.218.113 duckduckgo.com
@@ -217,7 +213,7 @@
 #2001:4860:4802:32::78 google.co.zw
 #2001:4860:4802:32::78 google.cat
 
-216.239.38.120 google.com
+216.239.38.120 google.com #forcesafesearch
 #216.239.38.120 google.ad
 #216.239.38.120 google.ae
 #216.239.38.120 google.com.af
